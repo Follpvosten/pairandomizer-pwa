@@ -1,0 +1,191 @@
+{
+  "scenes": [
+    {
+      "name": "Kino",
+      "messages": [
+        "%1$s und %2$s knutschen rum.",
+        "%1$s und %2$s kuscheln auf den Kuschelsitzen.",
+        "%1$s versteckt sich bei Kussszenen hinter %2$s.",
+        "%1$s und %2$s fressen das ganze Popcorn.",
+        "%1$s und %2$s sitzen still auf ihren Sitzen.",
+        "%1$s und %2$s machen bei Actionszenen rum.",
+        "%1$s und %2$s lachen über schlechte Effekte.",
+        "%1$s und %2$s lachen, wann immer jemand stirbt.",
+        "%1$s und %2$s lachen über alles.",
+        "%1$s kommentiert den gesamten Film und %2$s ist genervt davon.",
+        "%1$s und %2$s kommentieren laut den Film.",
+        "%1$s spoilert %2$s über das Ende. %2$s ist salty.",
+        "%1$s und %2$s füttern sich mit Popcorn.",
+        "%1$s und %2$s werfen sich gegenseitig mit Popcorn ab."
+      ]
+    },
+    {
+      "name": "Boutique",
+      "messages": [
+        "%1$s und %2$s knutschen in der Umkleide rum.",
+        "%1$s und %2$s tauschen ihre Klamotten.",
+        "%1$s und %2$s wetteifern darum, wer das lächerlichste Outfit zusammenstellt.",
+        "%1$s und %2$s veranstalten ein Wettrennen auf High Heels durch den Laden.",
+        "%1$s und %2$s warten ewig vor der Umkleide.",
+        "%1$s und %2$s crossdressen.",
+        "%1$s bringt %2$s dazu, sexy Unterwäsche anzuprobieren.",
+        "%1$s verliebt sich in eine Handtasche. %2$s kauft sie %1$s.",
+        "%1$s und %2$s verlieben sich in Schuhe.",
+        "%1$s und %2$s stürzen sich auf die reduzierte Ware.",
+        "%1$s und %2$s kämpfen um ein Kleidungsstück.",
+        "%1$s kauft sich einen Haufen Hoodies. %2$s muss sie tragen."
+      ]
+    },
+    {
+      "name": "Café",
+      "messages": [
+        "%1$s und %2$s halten eine Teezeremonie ab.",
+        "%1$s bestellt sich einen Kuchen. %2$s trinkt Kaffee.",
+        "%1$s bestellt sich einen Kuchen. %2$s frisst ihn auf.",
+        "%1$s veranstaltet mit %2$s eine Essensschlacht.",
+        "%1$s füttert %2$s verführerisch mit Kuchen.",
+        "%1$s isst verführerisch einen Bananensplit. %2$s kriegt Nasenbluten.",
+        "%1$s und %2$s knutschen rum.",
+        "%1$s und %2$s füttern sich gegenseitig. Mit dem Mund. ( ͡° ͜ʖ ͡°)",
+        "%1$s und %2$s füttern sich gegenseitig.",
+        "%1$s und %2$s bestellen die gesamte Dessertkarte.",
+        "%1$s und %2$s veranstalten ein eigenes Candlelight-Dinner.",
+        "%1$s versucht, die Nummer des sexy Kellners zu bekommen. %2$s ist eifersüchtig."
+      ]
+    },
+    {
+      "name": "Tante Emma-Laden",
+      "messages": [
+        "%1$s und %2$s knutschen rum.",
+        "%1$s und %2$s gucken sich die tollen Schneekugeln an.",
+        "%1$s und %2$s treiben sich in der Erwachsenenabteilung rum.",
+        "%1$s aktiviert alle lauten Grußkarten. %2$s lacht sich kaputt.",
+        "%1$s aktiviert alle lauten Grußkarten. %2$s ist genervt.",
+        "%1$s und %2$s sind in der Einhornabteilung und finden alles süß.",
+        "%1$s und %2$s kaufen sich eine Regenbogen-Sparbüchse.",
+        "%1$s zündet Feuerwerk im Laden. %2$s lacht."
+      ]
+    },
+    {
+      "name": "Buchladen",
+      "messages": [
+        "%1$s und %2$s lachen sich über die Erotikbücher kaputt.",
+        "%1$s und %2$s lesen einen spannenden Krimi und fiebern mit.",
+        "%1$s und %2$s sehen sich Reiseführer an und planen ihre Flitterwochen.",
+        "%1$s und %2$s spoilern sich und lesen das Ende eines Buches.",
+        "%1$s wird von %2$s über das Ende eines Buches gespoilert.",
+        "%1$s und %2$s suchen Kochbücher.",
+        "%1$s und %2$s treiben sich in der Weeb-Abteilung rum.",
+        "%1$s liest das Micky Maus-Magazin. %2$s will das Extra haben.",
+        "%1$s und %2$s lachen sich über die Bravo kaputt.",
+        "%1$s will den neusten Comic lesen. %2$s macht mit.",
+        "%1$s und %2$s lesen sich Dr. Sommer in der Bravo durch.",
+        "%1$s und %2$s lesen sich Foto-Lovestorys in Teenie-Magazinen durch und spielen sie dramatisch vor.",
+        "%1$s und %2$s sehen sich süße Tierfotos an."
+      ]
+    },
+    {
+      "name": "Schwedisches Möbelhaus",
+      "messages": [
+        "%1$s und %2$s testen die Betten und schlafen ein.",
+        "%1$s und %2$s testen die Betten. ( ͡° ͜ʖ ͡°)",
+        "%1$s vergisst %2$s im Bällebad des Kinderbereichs.",
+        "%1$s und %2$s haben Spaß mit den Stofftieren.",
+        "%1$s wird von %2$s im Einkaufswagen geschoben und ruft \"Für Narnia!\"",
+        "%1$s und %2$s veranstalten ein Wettrennen im Einkaufswagen-schieben.",
+        "%1$s und %2$s hängen sich an mehrere Deckenlampen, um ihre Stabilität zu testen.",
+        "%1$s und %2$s tun in den Fake-Wohnungen so, als wären sie eine glückliche Familie.",
+        "%1$s und %2$s kochen was in einer ausgestellten Küche.",
+        "%1$s und %2$s nehmen alles genau unter die Lupe und wollen eine Wohnung kaufen.",
+        "%1$s und %2$s werfen sich auf eine Couch und schalten das Fernsehgerät ein.",
+        "%1$s und %2$s plündern die Süßigkeitenabteilung.",
+        "%1$s und %2$s schlagen sich im Restaurant den Bauch voll.",
+        "%1$s und %2$s testen die Duschen und Badewannen ( ͡° ͜ʖ ͡°)",
+        "%1$s und %2$s knutschen beim Matratzen-Testen rum.",
+        "%1$s und %2$s knutschen im Bällebad rum."
+      ]
+    },
+    {
+      "name": "SwagDonalds",
+      "messages": [
+        "%1$s und %2$s veranstalten ein Wettessen.",
+        "%1$s und %2$s knutschen rum.",
+        "%1$s und %2$s trinken romantisch gemeinsam einen Milchshake.",
+        "%1$s und %2$s füttern sich mit Chicken SwagNuggets.",
+        "%1$s leckt sich verführerisch den Dip von den Fingern. %2$s kriegt Nasenbluten.",
+        "%1$s frisst %2$s die ganzen Pommes weg.",
+        "%1$s und %2$s lecken zusammen an einem Eis.",
+        "%1$s und %2$s streiten sich darum, welches Getränk sie bestellen wollen.",
+        "%1$s und %2$s spielen auf dem Klettergerüst draußen.",
+        "%1$s und %2$s rutschen die ganze Zeit draußen.",
+        "%1$s und %2$s sitzen im SwagCafé bei einem Kaffee und unterhalten sich.",
+        "%1$s und %2$s stehen draußen vorm SwagDrive und foppen den Kassierer mit riesigen Bestellungen."
+      ]
+    },
+    {
+      "name": "Multimediageschäft",
+      "messages": [
+        "%1$s und %2$s probieren alle Fernseher aus.",
+        "%1$s und %2$s machen mit den Kameras Selfies.",
+        "%1$s und %2$s stellen Fotos von sich auf allen Handys als Hintergrund ein.",
+        "%1$s öffnet Never Gonna Give You Up auf einem Tablet. %2$s lacht.",
+        "%1$s und %2$s besetzen alle Konsolen in der Spieleabteilung.",
+        "%1$s und %2$s sehen sich lustige USB-Sticks an.",
+        "%1$s und %2$s vergleichen die neusten SSDs und Festplatten.",
+        "%1$s und %2$s vergleichen die Prozessorleistung der Laptops.",
+        "%1$s und %2$s suchen in der DVD-Abteilung nach Animes.",
+        "%1$s sucht mit %2$s nach Shrek-DVDs, um sie in den Anime-Bereich zu stellen.",
+        "%1$s sucht mit %2$s nach Sexfilmen, um sie in den Horror-Bereich zu stellen.",
+        "%1$s und %2$s setzen sich auf Staubsauger.",
+        "%1$s klettert in den Kühlschrank und erschreckt %2$s.",
+        "%1$s und %2$s richten sich eine Geheimbasis in einer Waschmaschine ein.",
+        "%1$s posiert neben einer lebensgroßen Batman-Figur und %2$s macht Fotos."
+      ]
+    },
+    {
+      "name": "Park",
+      "messages": [
+        "%1$s und %2$s spielen Frisbee.",
+        "%1$s wirft ein Frisbee. %2$s wird tödlich getroffen.",
+        "%1$s wirft das Frisbee. Bevor es %2$s erreicht, wird es von einem Hund weggeschnappt.",
+        "%1$s und %2$s veranstalten ein Picknick.",
+        "%1$s und %2$s machen auf der Picknickdecke rum.",
+        "%1$s und %2$s füttern sich beim Picknick verführerisch mit Essen.",
+        "%1$s und %2$s kaufen sich am Eisstand ein Eis.",
+        "%1$s und %2$s besetzen die Schaukeln.",
+        "%1$s und %2$s spielen im Sandkasten. %1$s klaut %2$s die Schaufel.",
+        "%1$s und %2$s machen auf einer Parkbank rum.",
+        "%1$s und %2$s gehen Eichhörnchen jagen.",
+        "%1$s und %2$s versuchen, die Eichhörnchen mit Nüssen anzulocken.",
+        "%1$s und %2$s veranstalten ein Wettrennen durch den Park.",
+        "%1$s und %2$s hüpfen wie die Affen von Baum zu Baum.",
+        "%1$s klaut kleinen Kindern die Süßigkeiten und kriegt davon eins von %2$s auf den Deckel.",
+        "%1$s und %2$s rollen knutschend durch die Gegend und werfen unschuldige Passanten wie Bowling-Pins um."
+      ]
+    },
+    {
+      "name": "Fitnesstudio",
+      "messages": [
+        "%1$s läuft auf dem Laufband. %2$s stellt es immer schneller, bis %1$s an die Wand fliegt.",
+        "%1$s läuft auf dem Laufband. %2$s stellt es immer schneller, aber %1$s hält mit. %2$s ist beeindruckt.",
+        "%1$s und %2$s machen in den Duschräumen rum.",
+        "%1$s reibt %2$s in der Dusche gründlich mit Seife ein. ( ͡° ͜ʖ ͡°)",
+        "%1$s stemmt 100 Kilo. %2$s sabbert.",
+        "%1$s kriegt nicht mal eine Hantel hoch, während %2$s locker 100 Kilo stemmt.",
+        "%1$s und %2$s machen bei einem Zumba-Kurs mit.",
+        "%1$s hilft %2$s mit Küssen bei Sit-ups.",
+        "%1$s fährt mit dem Trimm-Dich-Rad und wird dabei von %2$s angefeuert.",
+        "%1$s versucht, den Coach zu verführen. %2$s schüttelt nur den Kopf.",
+        "%1$s und %2$s versuchen, den Coach zu verführen."
+      ]
+    }
+  ],
+  "solo_messages": [
+    "%1$s macht bei den Leuten vor sich mit.",
+    "%1$s ist forever alone…",
+    "%1$s versteckt sich und stalkt alle.",
+    "%1$s geht eine Bank überfallen.",
+    "%1$s geht Kindern Süßigkeiten klauen.",
+    "%1$s jongliert mit Messern."
+  ]
+}

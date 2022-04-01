@@ -1,0 +1,159 @@
+{
+  "scenes": [
+    {
+      "name": "Ghost train",
+      "messages": [
+        "%1$s and %2$s make out.",
+        "%1$s clings to %2$s.",
+        "%1$s is hiding behind %2$s.",
+        "%1$s and %2$s are screaming.",
+        "%1$s and %2$s are quietly sitting in the wagon.",
+        "%1$s and %2$s are cuddling on the photo.",
+        "%1$s and %2$s laugh at the bad special effects.",
+        "%1$s and %2$s are taking selfies."
+      ]
+    },
+    {
+      "name": "Roller coaster",
+      "messages": [
+        "%1$s and %2$s make out.",
+        "%1$s is screaming and clinging to %2$s.",
+        "%1$s falls out of the looping. %2$s doesn't care.",
+        "%1$s falls out of the looping. %2$s is weeping bitterly.",
+        "%1$s and %2$s are screaming.",
+        "%1$s and %2$s are glaring at each other.",
+        "%1$s is commenting the whole ride. %2$s is annoyed by it.",
+        "%1$s is commenting the whole ride. %2$s laughs at everything.",
+        "%1$s pukes on %2$s's lap.",
+        "%1$s pukes during the looping. %2$s laughs."
+      ]
+    },
+    {
+      "name": "Carousel",
+      "messages": [
+        "%1$s and %2$s are having a horse race.",
+        "%1$s and %2$s go for a romantic horseback ride.",
+        "%1$s and %2$s get involved in a shootout.",
+        "%1$s and %2$s sit on a horse and make out.",
+        "%1$s would rather ride %2$s ( ͡° ͜ʖ ͡°)",
+        "%1$s and %2$s jump around on the horses.",
+        "%1$s and %2$s are having a horse race. %1$s wins.",
+        "%1$s and %2$s are having a horse race. %2$s wins.",
+        "%1$s and %2$s cuddle up in a carriage.",
+        "%1$s and %2$s sit on top of a helicopter."
+      ]
+    },
+    {
+      "name": "Haunted house",
+      "messages": [
+        "%1$s and %2$s make out.",
+        "%1$s clings to %2$s.",
+        "%1$s and %2$s are clinging to each other.",
+        "%1$s and %2$s blabber the whole time.",
+        "%1$s thinks %2$s is scarier than the ghosts.",
+        "%1$s takes a photo of %2$s and the Zombie Hank.",
+        "%1$s and %2$s are laughing at the bad acting of the monsters."
+      ]
+    },
+    {
+      "name": "Log flume",
+      "messages": [
+        "%1$s and %2$s make out and get really wet ( ͡° ͜ʖ ͡°)",
+        "%1$s and %2$s overturn the boat together.",
+        "%1$s is trying to overturn the boat. %2$s is trying to prevent it.",
+        "%1$s pushes %2$s into the water.",
+        "%1$s comes very close to %2$s ( ͡° ͜ʖ ͡°)",
+        "%1$s is hiding behind %2$s to avoid getting wet.",
+        "%1$s and %2$s scream during whole ride.",
+        "%1$s and %2$s joke about \"getting wet\"."
+      ]
+    },
+    {
+      "name": "Swing carousel",
+      "messages": [
+        "%1$s and %2$s make out.",
+        "%1$s clings to %2$s.",
+        "%1$s and %2$s chase the people in front of them with blue light.",
+        "%1$s is trying to escape from %2$s.",
+        "%1$s and %2$s are dancing around the seats.",
+        "%1$s and %2$s are playing rock-paper-scissors.",
+        "%1$s falls down. %2$s laughs.",
+        "%1$s is falling down, but %2$s pulls %1$s back."
+      ]
+    },
+    {
+      "name": "Tunnel of Love",
+      "messages": [
+        "%1$s and %2$s make out.",
+        "%1$s and %2$s are having a grope.",
+        "%1$s rejects %2$s.",
+        "%1$s and %2$s jump around the boats like monkeys.",
+        "%1$s and %2$s sit next to each other in total silence.",
+        "%1$s and %2$s are cuddling.",
+        "%1$s throws %2$s into the water.",
+        "%1$s and %2$s get right to the point ( ͡° ͜ʖ ͡°)",
+        "%1$s and %2$s are having Sex.",
+        "%1$s gives %2$s head.",
+        "%1$s is giving %2$s hickies on the neck.",
+        "%1$s gives %2$s a kiss on the forehead.",
+        "%1$s nuzzles %2$s~ :3"
+      ]
+    },
+    {
+      "name": "Ferris wheel",
+      "messages": [
+        "%1$s and %2$s make out.",
+        "%1$s and %2$s enjoy the view.",
+        "%1$s avoids eye contact with %2$s.",
+        "%1$s and %2$s are glaring at each other.",
+        "%1$s tells %2$s jokes.",
+        "%1$s is singing for %2$s.",
+        "%1$s is bored. %2$s thinks about murdering someone.",
+        "%1$s raves about the inner workings of a Ferris wheel. %2$s is bored to death by it.",
+        "%1$s raves about the inner workings of a Ferris wheel. %2$s is listening interestedly.",
+        "%1$s throws %2$s out.",
+        "%1$s and %2$s are planning a bank robbery.",
+        "%1$s and %2$s develop a plan for world domination."
+      ]
+    },
+    {
+      "name": "Shooting gallery",
+      "messages": [
+        "%1$s wins a price for %2$s. Then they make out.",
+        "%1$s wins a price for %2$s.",
+        "%1$s tries to shoot %2$s.",
+        "%1$s tries to win something for %2$s, but fails spectacularly.",
+        "%1$s and %2$s are dueling.",
+        "%1$s and %2$s are dueling. %1$s wins.",
+        "%1$s and %2$s are dueling. %2$s wins.",
+        "%1$s and %2$s are dueling. %2$s fucking died.",
+        "%1$s sweeps the board. %2$s goes on a killing spree.",
+        "%1$s sweeps the board. %2$s gives applause.",
+        "%1$s and %2$s bet on who can shoot down more trees."
+      ]
+    },
+    {
+      "name": "Eisberg (Prater)",
+      "messages": [
+        "%1$s and %2$s make out.",
+        "%1$s breaks the record. %2$s doesn't care.",
+        "%1$s breaks the record. %2$s celebrates it.",
+        "%1$s pushes to %2$s off the wagon.",
+        "%1$s is spat at by the walrus and laughed at by %2$s.",
+        "%1$s thinks the camera is a gun and tries to shoot %2$s.",
+        "%1$s staring at everything with wide eyes. %2$s is not amused.",
+        "%1$s and %2$s laugh at everything.",
+        "%1$s and %2$s think everything is cute.",
+        "%1$s and %2$s pet the polar bear.",
+        "%1$s and %2$s pretend to be take selfies using the camera.",
+        "%1$s laughs about everything. %2$s is annoyed.",
+        "%1$s thinks everything is cute. %2$s laughs at everything.",
+        "%1$s steals %2$s's camera.",
+        "%1$s takes photos with the camera while %2$s is posing."
+      ]
+    }
+  ],
+  "solo_messages": [
+    "%1$s is forever alone…"
+  ]
+}

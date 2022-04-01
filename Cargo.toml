@@ -1,0 +1,33 @@
+[package]
+name = "pairandomizer-pwa"
+version = "0.2.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+js-sys = "0.3.56"
+serde = { version = "1.0.136", features = ["derive"] }
+serde_json = "1.0.79"
+wasm-bindgen = "0.2.79"
+wasm-bindgen-futures = "0.4.29"
+yew = "0.19.3"
+gloo = "0.6"
+anyhow = "1"
+rand = "0.8"
+getrandom = { version = "0.2", features = ["js"] }
+itertools = "0.10"
+bounce = { git = "https://github.com/futursolo/bounce.git", branch = "master" }
+unic-langid = { version = "0.9", features = ["macros"] }
+futures = "0.3"
+
+[dependencies.web-sys]
+version = "0.3"
+features = [
+    "Navigator",
+    "ServiceWorker",
+    "ServiceWorkerState",
+    "ServiceWorkerContainer",
+    "ServiceWorkerRegistration",
+    "HtmlSelectElement",
+]

@@ -1,0 +1,15 @@
+{
+    "name": "Pairandomizer",
+    "background_color": "blue",
+    "description": "Randomize pairings and situations!",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/res/icon.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "id": "/"
+}

@@ -1,0 +1,225 @@
+{
+  "scenes": [
+    {
+      "name": "Am Strand",
+      "messages": [
+        "%1$s und %2$s surfen wie die coolen Dudes.",
+        "%1$s und %2$s bauen Sandburgen.",
+        "%1$s und %2$s gehen schwimmen.",
+        "%1$s und %2$s tauchen.",
+        "%1$s und %2$s machen im Wasser rum und werden richtig feucht ( ͡° ͜ʖ ͡°)",
+        "%1$s buddelt %2$s im Sand ein.",
+        "%1$s liest ein Buch und %2$s bräunt sich.",
+        "%1$s schläft ein, bekommt einen Sonnenbrand und wird daraufhin von %2$s ausgelacht.",
+        "%1$s und %2$s liegen auf einem Handtuch und machen rum.",
+        "%1$s reibt %2$s mit Sonnencreme ein. Gründlich. ( ͡° ͜ʖ ͡°)",
+        "%1$s und %2$s spielen gegen irgendwen Volleyball.",
+        "%1$s und %2$s spielen Wasserball.",
+        "%1$s und %2$s gehen Krebse fangen.",
+        "%1$s sammelt Muscheln und zeigt sie %2$s. %2$s ist beeindruckt.",
+        "%1$s sammelt Muscheln und zeigt sie %2$s. %2$s ist es egal.",
+        "%1$s kippt die Luftmatratze um, auf der %2$s liegt.",
+        "%1$s und %2$s angeln im Meer.",
+        "%1$s und %2$s suchen den Strand mit einem Metalldetektor ab.",
+        "%1$s klaut %2$s den Sonnenschirm.",
+        "%1$s versucht, %2$s mit einem Sonnenschirm abzustechen."
+      ]
+    },
+    {
+      "name": "Campen am Fluss",
+      "messages": [
+        "%1$s und %2$s knutschen im Zelt rum.",
+        "%1$s und %2$s suchen Feuerholz.",
+        "%1$s versucht erfolglos, das Feuer anzuzünden, und wird von %2$s ausgelacht.",
+        "%1$s zündet erfolgreich das Feuer an. %2$s ist beeindruckt.",
+        "%1$s und %2$s gehen Kanu fahren.",
+        "%1$s und %2$s schwimmen im Fluss.",
+        "%1$s und %2$s veranstalten ein Wettangeln.",
+        "%1$s und %2$s sammeln Früchte und Beeren.",
+        "%1$s und %2$s kochen das Abendessen.",
+        "%1$s und %2$s gehen Essen jagen.",
+        "%1$s hat sich eine Dose Fertignahrung mitgebracht. %2$s findet das lustig.",
+        "%1$s und %2$s basteln sich Waffen aus Materialien der Umgebung.",
+        "%1$s und %2$s lassen Steine über den Fluss hüpfen.",
+        "%1$s erzählt eine gruselige Geschichte am Lagerfeuer. %2$s hat Angst.",
+        "%1$s erzählt eine gruselige Geschichte am Lagerfeuer. %2$s lacht.",
+        "%1$s erzählt eine gruselige Geschichte am Lagerfeuer. %2$s kuschelt sich vor Angst an %1$s.",
+        "%1$s und %2$s schleichen sich nachts heimlich in den Wald ( ͡° ͜ʖ ͡°)",
+        "%1$s und %2$s kuscheln sich zusammen in einen Schlafsack ( ͡° ͜ʖ ͡°)",
+        "%1$s röstet Marshmallows und füttert %2$s damit.",
+        "%1$s und %2$s versuchen, Sternbilder zu benennen."
+      ]
+    },
+    {
+      "name": "Wanderung",
+      "messages": [
+        "%1$s und %2$s verlaufen sich im Wald.",
+        "%1$s und %2$s machen gleich in der ersten Berghütte rum.",
+        "%1$s und %2$s machen einen auf Pfadfinder und analysieren Pferdeäpfel.",
+        "%1$s macht nach 5 Minuten schon schlapp, genau wie %2$s.",
+        "%1$s und %2$s machen die ganze Zeit Witze.",
+        "%1$s und %2$s singen fröhlich Wanderlieder.",
+        "%1$s fällt in eine Gletscherspalte. %2$s lacht.",
+        "%1$s fällt von einer Klippe. %2$s zieht %1$s wieder hoch.",
+        "%1$s fällt einen Abhang runter. %2$s trauert.",
+        "%1$s und %2$s machen ein Wettrennen zum Gipfel.",
+        "%1$s jodelt. %2$s lacht sich darüber kaputt.",
+        "%1$s sieht einen Steinbock und imitiert diesen. %2$s lacht.",
+        "%1$s versucht, einen Steinbock zu reiten, und wird abgeworfen. %2$s lacht.",
+        "%1$s und %2$s machen ein Picknick."
+      ]
+    },
+    {
+      "name": "Skiurlaub",
+      "messages": [
+        "%1$s failt beim Skifahren und wird von %2$s ausgelacht.",
+        "%1$s fährt Snowboard und wird dabei von %2$s angehimmelt.",
+        "%1$s und %2$s bauen einen Schneemann.",
+        "%1$s und %2$s bauen ein Iglu und machen darin rum.",
+        "%1$s und %2$s gehen langlaufen.",
+        "%1$s und %2$s fahren romantisch Schlittschuh.",
+        "%1$s und %2$s veranstalten eine Schneeballschlacht.",
+        "%1$s wirft einen Schneeball. %2$s wird tödlich getroffen.",
+        "%1$s und %2$s veranstalten einen Wettbewerb um die schönste Schneefigur.",
+        "%1$s und %2$s liegen im Schnee und machen rum.",
+        "%1$s und %2$s machen Schnee-Engel.",
+        "%1$s und %2$s kuscheln in der Berghütte vorm Kamin.",
+        "%1$s fällt in den Schnee, bildet einen Schneeball und reißt %2$s mit."
+      ]
+    },
+    {
+      "name": "City Tour",
+      "messages": [
+        "%1$s und %2$s fahren mit dem Hop-on, Hop-off Bus.",
+        "%1$s und %2$s gehen auf eine Sightseeing-Tour.",
+        "%1$s schleppt %2$s durch alle möglichen Museen und Kirchen. %2$s langweilt sich.",
+        "%1$s schleppt %2$s zu verschiedenen Attraktionen.",
+        "%1$s rennt wie wild von einer Sehenswürdigkeit zur anderen. %2$s ist erschöpft.",
+        "%1$s und %2$s setzen sich in ein gemütliches Café.",
+        "%1$s und %2$s gehen shoppen.",
+        "%1$s und %2$s gehen Souvenirs shoppen.",
+        "%1$s geht mit %2$s Parks und Gärten besichtigen.",
+        "%1$s macht klischeehafte Fotos von %2$s vor Sehenswürdigkeiten.",
+        "%1$s und %2$s gehen die Geheimtipps im Reiseführer durch.",
+        "%1$s und %2$s machen bei einer Führung durch die Stadt mit.",
+        "%1$s und %2$s machen ein Picknick im Park."
+      ]
+    },
+    {
+      "name": "Safari",
+      "messages": [
+        "%1$s und %2$s betrachten alle Tiere mit großen Augen.",
+        "%1$s und %2$s sitzen auf dem Dach und kommunizieren mit den Affen.",
+        "%1$s versucht, den Hals einer Giraffe hochzuklettern. %2$s versucht, es zu verhindern.",
+        "%1$s versucht, ein Zebra zu reiten. %2$s hilft mit.",
+        "%1$s fotografiert %2$s vor verschiedenen Tieren.",
+        "%1$s versucht, Löwen zu zähmen. %2$s hat Angst.",
+        "%1$s und %2$s werden von einer anderen Gruppe für Attraktionen gehalten.",
+        "%1$s und %2$s wollen das Nashorn fest am Horn packen. ( ͡° ͜ʖ ͡°)",
+        "%1$s reibt den Rüssel des Elefanten. %2$s wird dadurch angeturnt.",
+        "%1$s und %2$s haben die Kokosnuss geklaut.",
+        "%1$s und %2$s versuchen, auf einem Nilpferd zu reiten."
+      ]
+    },
+    {
+      "name": "Wasserpark",
+      "messages": [
+        "%1$s und %2$s rutschen gemeinsam die richtig lange, dunkle Rutsche runter. ( ͡° ͜ʖ ͡°)",
+        "%1$s und %2$s schwimmen zusammen Bahnen und unterhalten sich dabei.",
+        "%1$s versucht, %2$s zu ertränken.",
+        "%1$s und %2$s veranstalten eine Wasserschlacht.",
+        "%1$s und %2$s machen im Wasser rum.",
+        "%1$s und %2$s machen auf einer Liege rum.",
+        "%1$s und %2$s chillen im Whirlpool.",
+        "%1$s und %2$s nehmen an der Wassergymnastik teil.",
+        "%1$s und %2$s rennen im Naruto-Run von Pool zu Pool.",
+        "%1$s verhaut %2$s mit einer Schwimmnudel.",
+        "%1$s und %2$s liefern sich einen Fechtkampf mit Schwimmnudeln.",
+        "%1$s und %2$s streiten sich um eine Luftmatratze.",
+        "%1$s geht mit Schwimmflügeln ins Wasser. %2$s lacht.",
+        "%1$s ist wasserscheu und faucht das Wasser an. %2$s findet das lustig.",
+        "%1$s und %2$s schwimmen um die Wette.",
+        "%1$s und %2$s messen sich darin, wer vom höheren Sprungturm springen kann.",
+        "%1$s springt vom Sprungturm und knallt %2$s auf den Kopf.",
+        "%1$s springt vom Sprungturm und wird von %2$s romantisch aufgefangen.",
+        "%1$s und %2$s haben einen romantischen Kuss unter Wasser."
+      ]
+    },
+    {
+      "name": "Zoo",
+      "messages": [
+        "%1$s und %2$s streicheln und füttern die Ziegen.",
+        "%1$s und %2$s streicheln die Schweinchen.",
+        "%1$s und %2$s streicheln süße Kaninchenbabys.",
+        "%1$s und %2$s steigen auf Esel und veranstalten ein Wettrennen.",
+        "%1$s und %2$s werden im Tropenhaus von einem Krokodil gejagt.",
+        "%1$s wird im Tropenhaus von Vögeln belagert. %2$s macht Fotos.",
+        "%1$s und %2$s knutschen rum.",
+        "%1$s spricht die Löwen an, wird angebrüllt und erschreckt sich zu Tode. %2$s lacht.",
+        "%1$s setzt sich auf eine Löwenstatue und %2$s macht Fotos.",
+        "%1$s kauft %2$s ein Eis. %2$s freut sich.",
+        "%1$s und %2$s füttern sich gegenseitig mit Zuckerwatte."
+      ]
+    },
+    {
+      "name": "Wüste",
+      "messages": [
+        "%1$s und %2$s reiten auf Kamelen.",
+        "%1$s läuft gegen einen Kaktus. %2$s lacht.",
+        "%1$s versucht, auf eine Palme zu klettern, fällt runter und landet auf %2$s.",
+        "%1$s und %2$s springen an einer Oase ins Wasser.",
+        "%1$s fällt auf eine Fata Morgana rein und springt kopfüber in den Sand. %2$s lacht.",
+        "%1$s und %2$s missbrauchen Wasser aus einer Oase, um Sandburgen zu bauen.",
+        "%1$s und %2$s gehen Käfer sammeln.",
+        "%1$s wird von einem Skorpion gestochen. %2$s saugt das Gift aus.",
+        "%1$s und %2$s knutschen im Sand rum.",
+        "%1$s trinkt das letzte Wasser und wird dafür von %2$s fast umgebracht.",
+        "%1$s bewirft %2$s mit Sand. %2$s sagt \"Ich hasse Sand.\"",
+        "%1$s und %2$s bewerfen sich gegenseitig mit Sand."
+      ]
+    },
+    {
+      "name": "Pyramide",
+      "messages": [
+        "%1$s und %2$s verlaufen sich.",
+        "%1$s löst alle möglichen Fallen aus, während %2$s vorsichtiger ist.",
+        "%1$s und %2$s finden eine Grabkammer von Tutanchamun und trinken mit ihm Tee.",
+        "%1$s und %2$s finden einen wertvollen Schatz.",
+        "%1$s und %2$s verstecken sich im Dunkeln und machen rum.",
+        "%1$s tritt in Treibsand. %2$s zieht %1$s wieder raus.",
+        "%1$s und %2$s werden von einer Mumie gejagt.",
+        "%1$s und %2$s werden von einem riesigen, rollenden Felsen verfolgt.",
+        "%1$s und %2$s entrinnen knapp einer Grube voll spitzer Stacheln.",
+        "%1$s versucht, eine Mumie zu bezirzen. %2$s fragt sich, was zur Hölle das soll.",
+        "%1$s und %2$s bleiben lieber vor der Pyramide stehen.",
+        "%1$s und %2$s versuchen, außen auf die Pyramide zu klettern."
+      ]
+    },
+    {
+      "name": "Gartenparty",
+      "messages": [
+        "%1$s steht am Grill und wird von %2$s angehimmelt.",
+        "%1$s und %2$s baden im Schwimmteich und spritzen alle an.",
+        "%1$s und %2$s warten ungeduldig auf das Essen und belagern den Grill.",
+        "%1$s und %2$s hüpfen von Baum zu Baum, wie die Affen.",
+        "%1$s und %2$s bauen ein Baumhaus.",
+        "%1$s und %2$s liegen im Gras und knutschen rum.",
+        "%1$s und %2$s liegen im Gras und deuten Wolkenformen.",
+        "%1$s versucht, %2$s zu fangen.",
+        "%1$s spielt mit %2$s verstecken.",
+        "%1$s versucht, %2$s im Schwimmteich unterzutauchen.",
+        "%1$s wirft %2$s in den Schwimmteich.",
+        "%1$s erschreckt %2$s beim Schwimmen im Teich.",
+        "%1$s und %2$s verziehen sich hinter einen Baum. ( ͡° ͜ʖ ͡°)",
+        "%1$s baut eine Staffelei auf und fängt an, ein Gemälde von %2$s zu malen."
+      ]
+    }
+  ],
+  "solo_messages": [
+    "%1$s macht bei letzteren mit.",
+    "%1$s ist forever alone…",
+    "%1$s versteckt sich und stalkt alle.",
+    "%1$s geht Kindern Süßigkeiten klauen.",
+    "%1$s jongliert mit Kokosnüssen."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "server_name": "Default Server",
+  "comment": "This is the default server. Have fun!",
+  "beta": null,
+  "scenarios": [
+    {
+      "name": "Stadtausflug (Tag)",
+      "lang": "de",
+      "filename": "stadtausflug_de.json"
+    },
+    {
+      "name": "Stadtausflug (Nacht)",
+      "lang": "de",
+      "filename": "stadtausflug_nacht_de.json"
+    },
+    {
+      "name": "Urlaub",
+      "lang": "de",
+      "filename": "urlaub_de.json"
+    },
+    {
+      "name": "Vacation",
+      "lang": "en",
+      "filename": "urlaub_en.json"
+    },
+    {
+      "name": "Freizeitpark",
+      "lang": "de",
+      "filename": "freizeitpark_de.json"
+    },
+    {
+      "name": "Amusement park",
+      "lang": "en",
+      "filename": "freizeitpark_en.json"
+    },
+    {
+      "name": "Pairings only",
+      "lang": null,
+      "filename": "classic.json"
+    }
+  ]
+}

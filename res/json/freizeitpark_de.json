@@ -1,0 +1,210 @@
+{
+  "scenes": [
+    {
+      "name": "Geisterbahn",
+      "messages": [
+        "%1$s und %2$s knutschen rum.",
+        "%1$s klammert sich an %2$s.",
+        "%1$s versteckt sich hinter %2$s.",
+        "%1$s und %2$s schreien rum.",
+        "%1$s und %2$s sitzen still im Waggon.",
+        "%1$s und %2$s kuscheln auf dem Foto.",
+        "%1$s und %2$s lachen über die schlechten Effekte.",
+        "%1$s und %2$s machen Selfies."
+      ],
+      "triple_messages": [
+        "%1$s und %2$s klammern sich zitternd aneinander. %3$s sitzt unbeeindruckt daneben.",
+        "%1$s und %2$s machen heftig rum. %3$s sitzt stumm daneben."
+      ]
+    },
+    {
+      "name": "Achterbahn",
+      "messages": [
+        "%1$s und %2$s knutschen rum.",
+        "%1$s klammert sich schreiend an %2$s.",
+        "%1$s fällt im Looping raus. %2$s ist es egal.",
+        "%1$s fällt im Looping raus. %2$s weint bitterlich.",
+        "%1$s und %2$s schreien herum.",
+        "%1$s und %2$s starren sich böse an.",
+        "%1$s kommentiert die gesamte Fahrt. %2$s ist genervt.",
+        "%1$s kommentiert die gesamte Fahrt. %2$s lacht über alles.",
+        "%1$s kotzt %2$s auf den Schoß.",
+        "%1$s kotzt im Looping. %2$s lacht."
+      ],
+      "triple_messages": [
+        "%1$s, %2$s und %3$s quetschen sich auf zwei Sitze.",
+        "%1$s fällt fast im Looping raus, wird jedoch von %2$s und %3$s festgehalten."
+      ]
+    },
+    {
+      "name": "Karussell",
+      "messages": [
+        "%1$s und %2$s liefern sich ein Rennen.",
+        "%1$s und %2$s machen einen romantischen Ausritt.",
+        "%1$s und %2$s werden in eine Schießerei verwickelt.",
+        "\"Und ist der Graben mal zu breit,\nfür %1$s ist das keine Schwierigkeit!\" singt %2$s.",
+        "%1$s und %2$s sitzen auf einem Pferd und machen rum.",
+        "%1$s würde lieber %2$s reiten ( ͡° ͜ʖ ͡°)",
+        "%1$s und %2$s turnen auf den Pferden rum.",
+        "%1$s und %2$s liefern sich ein Rennen. %1$s gewinnt.",
+        "%1$s und %2$s liefern sich ein Rennen. %2$s gewinnt.",
+        "%1$s und %2$s kuscheln in einer Kutsche.",
+        "%1$s und %2$s sitzen oben in einen Hubschrauber."
+      ],
+      "triple_messages": [
+        "%1$s und %2$s verfolgen %3$s mit Blaulicht.",
+        "%1$s reitet auf %2$s. %3$s sitzt auf dem Pferd daneben."
+      ]
+    },
+    {
+      "name": "Geisterhaus",
+      "messages": [
+        "%1$s und %2$s knutschen rum.",
+        "%1$s klammert sich an %2$s.",
+        "%1$s und %2$s klammern sich aneinander.",
+        "%1$s und %2$s labern die ganze Zeit nur.",
+        "%1$s hat mehr Angst vor %2$s, als vor den Geistern.",
+        "%1$s macht ein Foto von %2$s und dem Zombie Hank.",
+        "%1$s und %2$s lachen über das schlechte Acting der Monster."
+      ],
+      "triple_messages": [
+        "%1$s, %2$s und %3$s verziehen sich hinter die Kulissen...",
+        "%1$s und %2$s machen ein Selfie und werden von %3$s gephotobombt."
+      ]
+    },
+    {
+      "name": "Wildwasserbahn",
+      "messages": [
+        "%1$s und %2$s knutschen rum und werden richtig feucht ( ͡° ͜ʖ ͡°)",
+        "%1$s und %2$s kippen gemeinsam das Boot.",
+        "%1$s versucht, das Boot zu kippen. %2$s versucht, es zu verhindern.",
+        "%1$s schubst %2$s ins Wasser.",
+        "%1$s rückt sehr nah an %2$s heran ( ͡° ͜ʖ ͡°)",
+        "%1$s versteckt sich hinter %2$s, um nicht nass zu werden.",
+        "%1$s und %2$s schreien die ganze Fahrt.",
+        "%1$s und %2$s machen Witze übers \"feucht werden\"."
+      ],
+      "triple_messages": [
+        "%1$s und %2$s versuchen, das Boot zu kippen. %3$s versucht, es zu verhindern.",
+        "%1$s versucht, das Boot zu kippen. %3$s und %2$s versuchen, es zu verhindern.",
+        "%1$s und %2$s versuchen, auf dem Foto eine lustige Pose zu machen. %3$s photobombt."
+      ]
+    },
+    {
+      "name": "Kettenkarussell",
+      "messages": [
+        "%1$s und %2$s knutschen rum.",
+        "%1$s klammert sich an %2$s.",
+        "%1$s und %2$s verfolgen die Leute vor sich mit Blaulicht.",
+        "%1$s versucht, vor %2$s zu fliehen.",
+        "%1$s und %2$s dancen um die Sitze.",
+        "%1$s und %2$s spielen Schere-Stein-Papier.",
+        "%1$s fällt runter. %2$s lacht.",
+        "%1$s fällt runter, aber %2$s zieht %1$s wieder hoch."
+      ],
+      "triple_messages": [
+        "%1$s und %2$s halten sich am Sitz von %3$s fest.",
+        "%1$s und %2$s verfolgen %3$s mit Blaulicht."
+      ]
+    },
+    {
+      "name": "Liebestunnel",
+      "messages": [
+        "%1$s und %2$s knutschen rum.",
+        "%1$s und %2$s fummeln rum.",
+        "%1$s verpasst %2$s eine Abfuhr.",
+        "%1$s und %2$s hüpfen wie die Affen über die Boote.",
+        "%1$s und %2$s sitzen stumm nebeneinander.",
+        "%1$s und %2$s knuddeln.",
+        "%1$s schmeißt %2$s ins Wasser.",
+        "%1$s und %2$s gehen richtig zur Sache ( ͡° ͜ʖ ͡°)",
+        "%1$s und %2$s haben Sex.",
+        "%1$s beglückt %2$s mit der Zunge.",
+        "%1$s gibt %2$s Knutschflecke am Hals.",
+        "%1$s gibt %2$s einen Kuss auf die Stirn.",
+        "%1$s flauscht %2$s.",
+        "%1$s und %2$s teilen sich einen schüchternen Kuss."
+      ],
+      "triple_messages": [
+        "%1$s, %2$s und %3$s haben einen Dreier.",
+        "%1$s und %2$s machen heftig rum, während %3$s peinlich berührt daneben sitzt.",
+        "%1$s, %2$s und %3$s spielen Mensch-ärgere-dich-nicht."
+      ]
+    },
+    {
+      "name": "Riesenrad",
+      "messages": [
+        "%1$s und %2$s knutschen rum.",
+        "%1$s und %2$s genießen die Aussicht.",
+        "%1$s vermeidet Blickkontakt mit %2$s.",
+        "%1$s und %2$s starren sich böse an.",
+        "%1$s erzählt %2$s Witze.",
+        "%1$s singt %2$s was vor.",
+        "%1$s ist langweilig. %2$s denkt darüber nach, jemanden zu ermorden.",
+        "%1$s schwärmt von der Funktionsweise eines Riesenrads. %2$s langweilt sich zu Tode.",
+        "%1$s schwärmt von der Funktionsweise eines Riesenrads. %2$s hört interessiert zu.",
+        "%1$s schmeißt %2$s raus.",
+        "%1$s und %2$s planen einen Banküberfall.",
+        "%1$s und %2$s entwickeln einen Plan für die Weltherrschaft."
+      ],
+      "triple_messages": [
+        "%1$s, %2$s und %3$s haben einen Dreier.",
+        "%1$s, %2$s und %3$s breiten ihre Picknick-Decke aus."
+      ]
+    },
+    {
+      "name": "Schießstand",
+      "messages": [
+        "%1$s schießt was für %2$s. Danach knutschen sie rum.",
+        "%1$s schießt was für %2$s.",
+        "%1$s versucht, %2$s abzuschießen.",
+        "%1$s versucht, was für %2$s zu schießen, und failt spektakulär.",
+        "%1$s und %2$s duellieren sich.",
+        "%1$s sagt zu %2$s: \"Ich hab mich verschossen. In dich. ( ͡° ͜ʖ ͡°)\"",
+        "%1$s und %2$s duellieren sich. %1$s gewinnt.",
+        "%1$s und %2$s duellieren sich. %2$s gewinnt.",
+        "%1$s und %2$s duellieren sich. %2$s fucking died.",
+        "%1$s räumt alle Preise ab. %2$s geht auf Amoklauf.",
+        "%1$s räumt alle Preise ab. %2$s klatscht Beifall.",
+        "%1$s und %2$s wetten, wer mehr Bäume abschießen kann."
+      ],
+      "triple_messages": [
+        "%1$s und %2$s liefern sich ein Duell um %3$s's Gunst.",
+        "%1$s und %2$s bilden ein Team und versuchen, %3$s abzuknallen."
+      ]
+    },
+    {
+      "name": "Eisberg",
+      "messages": [
+        "%1$s und %2$s knutschen rum.",
+        "%1$s bricht den Rekord. %2$s ist das egal.",
+        "%1$s bricht den Rekord. %2$s feiert das.",
+        "%1$s schubst %2$s aus dem Waggon.",
+        "%1$s wird vom Walross angespuckt und von %2$s ausgelacht.",
+        "%1$s denkt, die Kamera wäre eine Waffe, und versucht, auf %2$s zu schießen.",
+        "%1$s starrt alles mit großen Augen an. %2$s ist unbeeindruckt.",
+        "%1$s und %2$s lachen über alles.",
+        "%1$s und %2$s finden alles süß.",
+        "%1$s und %2$s streicheln den Eisbären.",
+        "%1$s und %2$s tun so, als ob sie mit der Kamera Selfies machen.",
+        "%1$s lacht über alles. %2$s ist genervt.",
+        "%1$s findet alles süß. %2$s lacht über alles.",
+        "%1$s klaut die Kamera von %2$s.",
+        "%1$s fotografiert mit der Kamera, während %2$s posiert."
+      ],
+      "triple_messages": [
+        "%1$s und %2$s versuchen, einen Pinguin zu entführen. %3$s versucht, es zu verhindern.",
+        "%1$s wird vom Walross angespuckt, von %2$s ausgelacht und von %3$s abgetrocknet."
+      ]
+    }
+  ],
+  "solo_messages": [
+    "%1$s macht bei den Leuten vor sich mit.",
+    "%1$s ist forever alone…",
+    "%1$s macht alle fertig.",
+    "%1$s versteckt sich und stalkt alle.",
+    "%1$s geht eine Bank überfallen.",
+    "%1$s geht Kindern Süßigkeiten klauen.",
+    "%1$s jongliert mit Messern."
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "scenes": [
+    {
+      "name": "Kino (Horrorfilm)",
+      "messages": [
+        "%1$s und %2$s knutschen rum, während Leute sterben.",
+        "%1$s und %2$s kuscheln sich ängstlich aneinander.",
+        "%1$s versteckt sich hinter %2$s.",
+        "%1$s und %2$s starren wie gebannt auf die Leinwand und fressen dabei Popcorn.",
+        "%1$s und %2$s sitzen still auf ihren Sitzen.",
+        "%1$s und %2$s erschrecken sich vor allem.",
+        "%1$s und %2$s werfen sich gegenseitig mit Popcorn ab.",
+        "%1$s kommentiert den gesamten Film und %2$s ist genervt davon.",
+        "%1$s und %2$s kommentieren laut den Film.",
+        "%1$s erschreckt %2$s während einer besonders angespannten Szene."
+      ]
+    },
+    {
+      "name": "Kino (Erwachsenenfilm)",
+      "messages": [
+        "%1$s und %2$s knutschen rum und kommen so richtig in Fahrt.",
+        "%1$s und %2$s treiben es auf einem Sitz.",
+        "%1$s und %2$s verfolgen die spannende Story.",
+        "%1$s und %2$s lachen über alles.",
+        "%1$s und %2$s simulieren Stöhnen und lachen sich über die Reaktionen der anderen kaputt.",
+        "%1$s und %2$s fummeln rum.",
+        "%1$s und %2$s analysieren die Anatomie der Schauspieler ( ͡° ͜ʖ ͡°)",
+        "%1$s und %2$s ziehen sich auf die Toilette zurück ( ͡° ͜ʖ ͡°)"
+      ]
+    },
+    {
+      "name": "Irish Pub",
+      "messages": [
+        "%1$s und %2$s halten eine Teezeremonie ab.",
+        "%1$s bestellt Leitungswasser und wird von %2$s ausgelacht.",
+        "%1$s sauft %2$s unter den Tisch.",
+        "%1$s und %2$s bestellen sich einen Hugo.",
+        "%1$s und %2$s schlürfen ihre Cocktails.",
+        "%1$s und %2$s bestellen gemeinsam die gesamte Getränkekarte.",
+        "%1$s und %2$s gröhlen laut Sauflieder mit.",
+        "%1$s und %2$s tanzen besoffen und werfen alles um.",
+        "%1$s und %2$s machen besoffen rum.",
+        "%1$s macht %2$s besoffen einen Antrag und bekommt eine Abfuhr.",
+        "%1$s macht %2$s besoffen einen Antrag und bekommt ein Ja.",
+        "%1$s macht %2$s besoffen einen Antrag.",
+        "%1$s tanzt nach ein paar Drinks auf der Theke und wird von %2$s angefeuert.",
+        "%1$s und %2$s hüpfen auf die Bühne und machen bei der Live-Band mit.",
+        "%1$s und %2$s haben besoffen Sex auf der Toilette.",
+        "%1$s und %2$s smoken Weed everyday.",
+        "%1$s versucht, den Barkeeper aufzureißen. %2$s sitzt peinlich berührt daneben und nippt am Vodka.",
+        "%1$s und %2$s versuchen, den Barkeeper zu einem Dreier zu überreden."
+      ]
+    },
+    {
+      "name": "Disco",
+      "messages": [
+        "%1$s und %2$s singen 'Disco, Disco! Party, Party!'",
+        "%1$s und %2$s sexen auf der Tanzfläche.",
+        "%1$s und %2$s machen Dirty Dancing.",
+        "%1$s und %2$s besaufen sich an der Bar.",
+        "%1$s wirbelt %2$s durch die Luft.",
+        "%1$s verschüttet einen Drink auf %2$s.",
+        "%1$s und %2$s nehmen Ecstasy.",
+        "%1$s dancet ab. %2$s tanzt wie ein Ziegelstein.",
+        "%1$s liegt besoffen auf der Tanzfläche und wird von %2$s ausgelacht."
+      ]
+    },
+    {
+      "name": "Edelrestaurant",
+      "messages": [
+        "%1$s und %2$s veranstalten eine Essensschlacht.",
+        "%1$s und %2$s speisen Schweinslungenbraten an Paprikasauce und Safran-Reisbirnen.",
+        "%1$s speist Lammfilet mit mediterranem Schmorgemüse. %2$s macht sich darüber lustig.",
+        "%1$s bestellt ein Glas Rotwein. %2$s bestellt eine Cola.",
+        "%1$s und %2$s machen heftig auf dem Tisch rum.",
+        "%1$s bestellt Lachsforellenragout mit Krebsschwänzen. %2$s bestellt eine Portion Pommes.",
+        "%1$s speist wie ein König. %2$s frisst wie ein Schwein.",
+        "%1$s und %2$s essen auf dem Kronleuchter.",
+        "%1$s und %2$s haben Angst vor dem Kellner und verstecken sich unter dem Tisch.",
+        "%1$s und %2$s versuchen beide, den Kellner zu verführen."
+      ]
+    }
+  ],
+  "solo_messages": [
+    "%1$s macht bei letzteren mit.",
+    "%1$s ist forever alone…",
+    "%1$s versteckt sich und stalkt alle.",
+    "%1$s liegt besoffen im Straßengraben."
+  ]
+}
