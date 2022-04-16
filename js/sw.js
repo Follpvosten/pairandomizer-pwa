@@ -1,11 +1,11 @@
 const FILES_TO_CACHE = [
     "/",
     "/index.html",
-    "/index-686f6c415810648a.js",
-    "/index-686f6c415810648a_bg.wasm",
+    "/pairandomizer-pwa.js",
+    "/pairandomizer-pwa_bg.wasm",
     "/res/icon.png",
 ];
-const VERSION = 2;
+const VERSION = 3;
 const CACHE_NAME = `pairandomizer-v${VERSION}`;
 
 self.addEventListener("install", e => {
