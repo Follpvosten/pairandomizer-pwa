@@ -12,8 +12,10 @@ use yew::prelude::*;
 use crate::{
     modal::{Dialog, ModalSender},
     pairandomizer_core::{Index, LoadedIndex},
-    settings::{Settings, SettingsDialog},
+    settings::Settings,
 };
+
+mod navbar;
 
 #[cfg(debug_assertions)]
 const DEFAULT_SERVER: &str = "http://127.0.0.1:8080";
@@ -116,15 +118,12 @@ pub fn app() -> Html {
         })
     };
 
-    let close_modal = modal.close_callback();
-
     let generate = index
         .is_some()
         .then(|| {
             let index = index.clone();
             let names = names.clone();
             let modal = modal.clone();
-            let close_modal = close_modal.clone();
             Callback::from(move |_| {
                 let index = match &**index {
                     Some(index) => index,
@@ -149,7 +148,7 @@ pub fn app() -> Html {
                     <div>{ for msgs }</div>
                     <div class="buttons">
                       <span />
-                      <button onclick={&close_modal}>{"Close"}</button>
+                      <button onclick={modal.close_callback()}>{"Close"}</button>
                     </div>
                   </Dialog>
                 });
@@ -157,22 +156,9 @@ pub fn app() -> Html {
         })
         .unwrap_or_default();
 
-    let open_settings = Callback::from(move |_| {
-        modal.open(html! {
-          <SettingsDialog onclose={&close_modal} />
-        });
-    });
-
     html! {
       <div class="layout-container">
-        <nav class="navbar">
-          <div class="title">
-            { "Pairandomizer" }
-          </div>
-          <div class="controls">
-            <span onclick={open_settings}>{ "⚙️" }</span>
-          </div>
-        </nav>
+        <navbar::Navbar />
         <div class="input-container">
           <textarea oninput={update_names} value={names.0.clone().join("\n")} />
         </div>
