@@ -13,10 +13,12 @@ pub fn navbar() -> Html {
     html! {
         <nav class="navbar">
           <div class="title">
-            { "Pairandomizer" }
+            <h1>{ "Pairandomizer" }</h1>
           </div>
           <div class="controls">
-            <span onclick={open_settings}>{ "⚙️" }</span>
+            <div class="ctrl" onclick={open_settings}>
+              <span class="icon">{ "⚙️" }</span>
+            </div>
           </div>
         </nav>
     }
