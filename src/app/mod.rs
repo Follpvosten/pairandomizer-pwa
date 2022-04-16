@@ -64,11 +64,9 @@ pub fn app() -> Html {
     // Context
     let lang_id = use_context::<LanguageIdentifier>().unwrap();
     let modal = use_context::<ModalSender>().unwrap();
-
     // Data
     let index = use_atom::<CurrentIndex>();
     let names = use_atom::<Names>();
-
     // Settings
     let settings = use_atom_value::<Settings>();
 
@@ -123,7 +121,6 @@ pub fn app() -> Html {
         .then(|| {
             let index = index.clone();
             let names = names.clone();
-            let modal = modal.clone();
             Callback::from(move |_| {
                 let index = match &**index {
                     Some(index) => index,
