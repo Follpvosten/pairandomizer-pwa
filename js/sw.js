@@ -5,7 +5,7 @@ const FILES_TO_CACHE = [
     "/pairandomizer-pwa_bg.wasm",
     "/res/icon.png",
 ];
-const VERSION = 3;
+const VERSION = 4;
 const CACHE_NAME = `pairandomizer-v${VERSION}`;
 
 self.addEventListener("install", e => {
