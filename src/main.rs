@@ -11,7 +11,7 @@ mod pwa;
 mod settings;
 
 fn main() {
-    yew::start_app::<AppShell>();
+    yew::Renderer::<AppShell>::new().render();
 }
 
 struct AppShell {

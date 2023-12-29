@@ -33,7 +33,7 @@ impl std::ops::Deref for CurrentIndex {
 }
 
 #[derive(PartialEq, Atom)]
-#[observed]
+#[bounce(observed)]
 pub struct Names(Vec<String>);
 impl Default for Names {
     fn default() -> Self {

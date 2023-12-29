@@ -11,7 +11,7 @@ use crate::{app::CurrentIndex, modal::Dialog};
 const STORAGE_KEY: &str = "settings";
 
 #[derive(Clone, PartialEq, Atom, Serialize, Deserialize)]
-#[observed]
+#[bounce(observed)]
 pub struct Settings {
     pub ignore_language: bool,
     pub scenario_index: Option<usize>,

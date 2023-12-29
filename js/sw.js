@@ -7,7 +7,7 @@ const FILES_TO_CACHE = [
     "/res/icon.png",
 ];
 // Cache name so we can install updates
-const VERSION = 5;
+const VERSION = 6;
 const CACHE_NAME = `pairandomizer-v${VERSION}`;
 
 // On install,
