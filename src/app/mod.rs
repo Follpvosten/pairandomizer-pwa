@@ -127,7 +127,7 @@ pub fn app() -> Html {
                     None => return,
                 };
                 let mut rng = rand::thread_rng();
-                let (meta, scenario) = index.pick_scenario(&mut rng, &*settings, &lang_id);
+                let (meta, scenario) = index.pick_scenario(&mut rng, &settings, &lang_id);
                 let scene = settings
                     .scene_index
                     .and_then(|index| scenario.scenes.get(index))
